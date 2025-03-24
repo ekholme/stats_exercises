@@ -2,6 +2,7 @@ using Turing
 using Distributions
 using Statistics
 using Random
+using LinearAlgebra
 
 Random.seed!(0408)
 
@@ -32,3 +33,12 @@ end
 model = linreg(X, y)
 
 chn = sample(model, NUTS(), MCMCThreads(), 5_000, 2);
+
+#summarize model
+summarize(chn)
+
+#check that betas are close enough
+
+coefs = summarize(chn)[:, :mean]
+
+isapprox.(coefs[1:4], X \ y, atol=0.01)
