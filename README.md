@@ -6,8 +6,10 @@ Some exercises to practice stats
 
 - [Linear Regression (Julia)](src/bayesian_lin_reg.jl)
 
-## Other
+## Probability
 
 - [Romeo and Juliet Meeting](src/romeo_juliet.R) Probability of Romeo and Juliet meeting
+
+## Other
 
 - [Recursion](src/recursion.jl) *not really statistics, but it's useful for some stats things*
