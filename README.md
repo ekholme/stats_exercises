@@ -2,9 +2,10 @@
 
 Some exercises to practice stats
 
-## Optimization
+## Estimation 
 
 - [Maximum Likelihood Estimation (Julia)](src/linreg_mle.jl): An example of estimating beta parameters in a linear regression using maximum likelihood
+- [Quick and Dirty Description of Maximum Likelihood Estimation](notes/maximum_likelihood.md)
 
 ## Bayesian Statistics
 
