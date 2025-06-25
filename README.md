@@ -20,6 +20,7 @@ Some exercises to practice stats
 - [Romeo and Juliet Meeting (R)](src/romeo_juliet.R) Probability of Romeo and Juliet meeting
 - [Biased Coins (Julia)](src/biased_coins.jl) Probability of selecting a given coin from among a pair of biased coins, given that the coin shows heads
 
-## Other
+## Algorithms & Other
 
 - [Recursion (Julia)](src/recursion.jl) *not really statistics, but it's useful for some stats things*
+- [Find Top K Elements in List (Python)](src/find_top_k_elements_algo.py): simple/naive implementation of an algorithm to find the top *k* most frequent elements in a list
