@@ -7,6 +7,10 @@ Some exercises to practice stats
 - [Maximum Likelihood Estimation (Julia)](src/linreg_mle.jl): An example of estimating beta parameters in a linear regression using maximum likelihood
 - [Quick and Dirty Description of Maximum Likelihood Estimation](notes/maximum_likelihood.md)
 
+## Correlation
+
+- [Generate Data with a Given Correlation (Julia)](src/gen_cor.jl): Generating bivariate data with a given correlation
+
 ## Bayesian Statistics
 
 - [Linear Regression (Julia)](src/bayesian_lin_reg.jl): An example of fitting a bayesian linear regression using simulated data
