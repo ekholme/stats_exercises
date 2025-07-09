@@ -24,3 +24,4 @@ Some exercises to practice stats
 
 - [Recursion (Julia)](src/recursion.jl) *not really statistics, but it's useful for some stats things*
 - [Find Top K Elements in List (Python)](src/find_top_k_elements_algo.py): simple/naive implementation of an algorithm to find the top *k* most frequent elements in a list
+- [Hash Table Implementation (Julia)](src/hash_table.jl): an implementation of a hash table in Julia
