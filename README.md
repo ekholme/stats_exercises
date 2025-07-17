@@ -20,6 +20,10 @@ Some exercises to practice stats
 - [Romeo and Juliet Meeting (R)](src/romeo_juliet.R) Probability of Romeo and Juliet meeting
 - [Biased Coins (Julia)](src/biased_coins.jl) Probability of selecting a given coin from among a pair of biased coins, given that the coin shows heads
 
+## Hypothesis Testing
+
+- [AB Test (R)](src/abtest.R). A quick AB test comparing page views and conducting a t-test to test a hypothesis.
+
 ## Algorithms & Other
 
 - [Recursion (Julia)](src/recursion.jl) *not really statistics, but it's useful for some stats things*
